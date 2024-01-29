@@ -1,0 +1,7 @@
+../Core/Src/ESP32_Wifi.c:46:6:ESP_init	8	static
+../Core/Src/ESP32_Wifi.c:57:6:ESP_wifiConnect	112	static
+../Core/Src/ESP32_Wifi.c:73:6:ESP_apiConnect	112	static
+../Core/Src/ESP32_Wifi.c:85:6:ESP_apiClose	8	static
+../Core/Src/ESP32_Wifi.c:100:6:ESP_fetchWeatherData	304	static
+../Core/Src/ESP32_Wifi.c:135:6:Parse_number	24	static
+../Core/Src/ESP32_Wifi.c:149:6:Parse_text	32	static

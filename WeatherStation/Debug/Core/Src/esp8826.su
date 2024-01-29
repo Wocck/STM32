@@ -1,0 +1,2 @@
+../Core/Src/esp8826.c:13:6:ESP8266_Init	176	static
+../Core/Src/esp8826.c:43:6:ESP8266_SendData	80	static
